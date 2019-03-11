@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Scientific Papers"
-    url: /scientific_papers
   - title: "Blog"
-    url: /
+    url: /blog
   - title: "Projects"
-    url: /projects
+    url: https://github.com/philipjusher
   - title: "CV"
-    url: /CV
+    url: /assets/pdfs/PhilipUsherCV.pdf

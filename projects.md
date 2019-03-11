@@ -1,12 +1,7 @@
 ---
-Title: "Projects"
-
+title: Projects
+layout: collection
+permalink: /projects/
+collection: projects
+entries_layout: grid
 ---
-
-<ul>
-  {% for project in site.projects %}
-    <li>
-      <h2>{{ project.title }}</h2>
-    </li>
-  {% endfor %}
-</ul>
